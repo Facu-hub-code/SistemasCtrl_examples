@@ -1,0 +1,2 @@
+Un sistema a lazo abierto no es capaz de adptarse a perturbaaciones, el de lazo cerrado si.
+En ese caso hay que calibrar bien el sistema de lazo abierto.
