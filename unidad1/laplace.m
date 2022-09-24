@@ -1,4 +1,5 @@
 pkg load symbolic
+pkg load control
 close all; clear all; clc;
 
 syms t real
