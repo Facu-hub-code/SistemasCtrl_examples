@@ -1,0 +1,3 @@
+cte de tiempo:
+4 T paso al 98% de K => [K*0,98] saco este punto del grafico y divido por 4.
+
